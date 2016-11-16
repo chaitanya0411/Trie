@@ -1,7 +1,7 @@
 
 public class TrieNode
 {
-	private Character alphabet;
+    private Character alphabet;
     private boolean isLeaf;
     private TrieNode[] children;
     
